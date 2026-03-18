@@ -1,79 +1,110 @@
 <h1 align="center">Hi 👋, I'm Saumya Nethmini</h1>
-<h3 align="center">Software Quality Assurance (QA) Undergraduate</h3>
+<h3 align="center">🧪 Software Quality Assurance (QA) Undergraduate</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=QA+Engineer+in+Progress...;Manual+Tester;Bug+Hunter+🔍;Future+Automation+Engineer" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 Undergraduate at Rajarata University of Sri Lanka (BICT Hons)
-- 🔍 Passionate about Software Quality Assurance & Testing
-- 🧪 Skilled in Manual Testing, Test Case Design & Defect Reporting
-- 📊 Familiar with SDLC & STLC processes
-- ⚡ Goal: Become a professional QA Engineer
+## 👩‍💻 About Me  
+🎓 BICT (Hons) Undergraduate – Rajarata University  
+🧪 Passionate about Software Testing & Quality Assurance  
+🔍 Strong in Manual Testing & Defect Tracking  
+📊 Familiar with SDLC & STLC  
+🎯 Goal: Become a Professional QA Engineer  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools  
 
-### 🧪 Testing Skills
-- Manual Testing  
-- Functional Testing  
-- Integration Testing  
-- System Testing  
-- UAT  
-- Test Case Design  
-- Defect Reporting  
-- Requirements Validation  
+### 🧪 Testing
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test%20Case%20Design-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Functional%20Testing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Testing-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UAT-purple?style=for-the-badge"/>
+</p>
 
-### ⚙️ Tools & Technologies
-- Jira (Defect Tracking)  
-- Selenium (Basic)  
-- MySQL (Basic SQL)  
-- GitHub  
-- VS Code  
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira"/>
+  <img src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium"/>
+  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
 ### 💻 Development Exposure
-- HTML, CSS  
-- PHP  
-- Python (Basic)  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php,python" />
+</p>
 
 ---
 
-## 📂 Projects
+## 📂 Projects  
 
-### 🚆 Automated Train Platform Safety & Tracking System
-- QR-based boarding system
-- GPS tracking integration
-- Performed system & functional testing
+### 🚆 Automated Train Platform Safety & Tracking System  
+🔹 QR-based boarding system  
+🔹 GPS tracking integration  
+🔹 Performed system & functional testing  
 
-### 💼 Task Mingle – Freelance Platform
-- Tested authentication & job posting features
-- Designed and executed test cases
-- Reported defects using Jira
+### 💼 Task Mingle – Freelance Platform  
+🔹 Tested authentication & job modules  
+🔹 Designed test cases  
+🔹 Reported bugs using Jira  
 
-### 🛠️ Technical Service Experts System
-- Web platform for IT issue support
-- Tested login, registration & booking features
-
----
-
-## 📜 Certifications
-- Introduction to Software Testing – Simplilearn  
-- ISO/IEC 25010 – Software Quality – Alison  
-- AI Powered A/B Testing – Sololearn  
-- Introduction to Java & Python – Sololearn  
+### 🛠️ Technical Service Experts System  
+🔹 Web-based IT support platform  
+🔹 Tested login & booking features  
 
 ---
 
-## 🌐 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/nethmini-herath-690151376  
-- 💻 GitHub: https://github.com/Saumya-creator-QA  
-- 📧 Email: snethminiherath12@gmail.com  
+## 📜 Certifications  
+🎓 Software Testing – Simplilearn  
+🎓 ISO/IEC 25010 – Software Quality  
+🎓 AI Powered A/B Testing – Sololearn  
+🎓 Java & Python Basics  
 
 ---
 
+## 📊 GitHub Stats  
 
-⭐ *"Ensuring quality is not just testing, it's building trust in software."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-creator-QA&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-creator-QA&theme=tokyonight" />
+</p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saumya-creator-QA&show_icons=true&theme=default)
+---
 
+## 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://github.com/Saumya-creator-QA/Saumya-creator-QA/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/nethmini-herath-690151376">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:snethminiherath12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saumya-creator-QA&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+⭐ *“Ensuring quality is not just testing, it's building trust in software.”*

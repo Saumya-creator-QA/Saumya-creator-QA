@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Saumya Nethmini</h1>
+<h1 align="center">👩‍💻 Saumya Nethmini</h1>
 <h3 align="center">🧪 Software Quality Assurance (QA) Undergraduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=QA+Engineer+in+Progress...;Manual+Tester;Bug+Hunter+🔍;Future+Automation+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=QA+Engineer+in+Progress...;Manual+Tester;Bug+Hunter+🔍;Future+Automation+Engineer" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Saumya-creator-QA">
+    <img src="https://komarev.com/ghpvc/?username=Saumya-creator-QA&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---

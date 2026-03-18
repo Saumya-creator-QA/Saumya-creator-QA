@@ -73,3 +73,7 @@
 
 
 ⭐ *"Ensuring quality is not just testing, it's building trust in software."*
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saumya-creator-QA&show_icons=true&theme=default)
+

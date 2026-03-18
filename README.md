@@ -86,11 +86,4 @@
   </a>
 </p>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saumya-creator-QA&label=Profile%20views&color=blue&style=flat" />
-</p>
-
----
-
 ⭐ *“Ensuring quality is not just testing, it's building trust in software.”*

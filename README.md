@@ -69,23 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-creator-QA&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-creator-QA&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation  
-
-<p align="center">
-  <img src="https://github.com/Saumya-creator-QA/Saumya-creator-QA/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p>
@@ -98,9 +81,6 @@
 </p>
 
 ---
-
-## 👀 Profile Views  
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saumya-creator-QA&label=Profile%20views&color=blue&style=flat" />
 </p>
